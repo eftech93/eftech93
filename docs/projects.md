@@ -16,7 +16,7 @@ Technologies: graphQl, NodeJs, ReactJS, NextJS
 
 ## Chrono Platform
 
-[https://hub.chronoscope.app/login]
+[Chronoscope](https://hub.chronoscope.app/login)
 
 Technologies: ReactJS, NextJS, AWS, CGP, Redis, MongoDB
 
@@ -41,6 +41,10 @@ Develop solution for eSIM implementation in Canada
 
 Technologies: Kotlin, SonarQube, Android
 
+## Food Basics
+
+[Food Basics App](https://play.google.com/store/search?q=food%20basics&c=apps&hl=en&gl=US)
+
 ## Super C
 
 Develop new features on Super C [https://play.google.com/store/apps/details?id=com.metro.superc&hl=en&gl=US]
@@ -61,3 +65,6 @@ Create new client experience for students and teachers [https://play.google.com/
 
 Design structure to properly support thousands of trails in [https://play.google.com/store/apps/details?id=com.appcom.iquad&hl=en&gl=US]
 
+## LabVantage
+
+Succesfully implement LabVantage 7 LIMS solution in Ecopetrol [Facebook Post](https://www.facebook.com/photo/?fbid=1142532775791540&set=a.255052951206198)
