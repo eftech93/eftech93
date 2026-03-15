@@ -10,8 +10,8 @@ Strong track record leading cross-functional teams, defining modular monolith an
 
 | | |
 |---|---|
-| 📧 **Email** | esteban.puello1@gmail.com |
-| 📱 **Phone** | +1 514 706 4919 |
+| 📧 **Email** | eftech93@gmail.com |
+
 | 📍 **Location** | Canada |
 | 💼 **LinkedIn** | [linkedin.com/in/eftech93](https://linkedin.com/in/eftech93) |
 | 🐙 **GitHub** | [github.com/eftech93](https://github.com/eftech93) |
@@ -37,4 +37,4 @@ pie title Technical Focus Areas
 - 👀 I'm interested in Systems Design, QA, Project Management, AI and Infrastructure
 - 🌱 I'm currently pursuing a Master's in Artificial Intelligence
 - 💡 Passionate about building scalable, cost-efficient platforms
-- 📫 How to reach me: esteban.puello1@gmail.com
+- 📫 How to reach me: eftech93@gmail.com

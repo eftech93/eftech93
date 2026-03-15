@@ -2,7 +2,7 @@
 
 **Solution Architect**
 
-Montreal, Canada • esteban.puello1@gmail.com • +1 514 706 4919 • linkedin.com/in/eftech93
+Montreal, Canada • eftech93@gmail.com • linkedin.com/in/eftech93
 
 <a href="#" class="print-button" onclick="window.print(); return false;">🖨️ Print / Save as PDF</a>
 
